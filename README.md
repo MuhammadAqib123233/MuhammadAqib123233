@@ -23,7 +23,7 @@ A passionate Full Stack Developer with a versatile skill set spanning PHP, WordP
 
 <p align="left"> <a href="https://www.github.com/MuhammadAqib123233" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-aqib-akhter" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Top Languages
 
 [![Dart](https://img.shields.io/badge/Dart-90%25-blue?style=for-the-badge&logo=dart)](https://dart.dev)
 [![PHP](https://img.shields.io/badge/PHP-90%25-777BB4?style=for-the-badge&logo=php)](https://www.php.net/)

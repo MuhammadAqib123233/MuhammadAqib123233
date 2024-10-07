@@ -25,7 +25,10 @@ A passionate Full Stack Developer with a versatile skill set spanning PHP, WordP
 
 ### Badges
 
-<a href="https://github.com/MuhammadAqib123233" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAqib123233&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Dart](https://img.shields.io/badge/Dart-90%25-blue?style=for-the-badge&logo=dart)](https://dart.dev)
+[![PHP](https://img.shields.io/badge/PHP-90%25-777BB4?style=for-the-badge&logo=php)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-60%25-007396?style=for-the-badge&logo=java)](https://www.java.com/)
 
 ### Support Me
 
